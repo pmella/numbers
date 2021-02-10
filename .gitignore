@@ -1,0 +1,5 @@
+.gitignore_*
+org.eclipse.*
+target/**
+.project
+.classpath
